@@ -1,0 +1,36 @@
+.partners-section {
+  padding: 4rem 0;
+  background: rgba(255, 255, 255, 0.05);
+  margin-top: 5rem;
+  border-bottom: 1px solid rgba(160, 255, 51, 0.1);
+}
+
+.partners-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.partners-title {
+  font-size: 1.5rem;
+  text-align: center;
+  margin-bottom: 3rem;
+  opacity: 0.8;
+}
+
+.partners-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 4rem;
+}
+
+.partner-logo {
+  height: 4rem;
+  filter: grayscale(1);
+  transition: filter 0.3s ease;
+}
+
+.partner-logo:hover {
+  filter: grayscale(0);
+}
