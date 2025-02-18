@@ -33,6 +33,7 @@ export default function CallToAction() {
               id="name"
               name="name"
               placeholder="Enter your name"
+              autoComplete="true"
               required
             />
           </div>
@@ -45,6 +46,7 @@ export default function CallToAction() {
               id="email"
               name="email"
               placeholder="Enter your email"
+              autoComplete="true"
               required
             />
           </div>
