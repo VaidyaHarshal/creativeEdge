@@ -13,7 +13,7 @@ export const serviceCategories: CategoryCardProps[] = [
   // Category with titled services
   {
     category: "BRANDING SERVICES",
-    image: "/images/brandStrategy.webp",
+    image: "creativeEdge/images/brandStrategy.webp",
     services: [
       {
         title: "Brand Identity Design",
@@ -34,7 +34,7 @@ export const serviceCategories: CategoryCardProps[] = [
   },
   {
     category: "ADVERTISING SERVICES",
-    image: "/images/campaignDevelopment.webp",
+    image: "creativeEdge/images/campaignDevelopment.webp",
     services: [
       {
         title: "Creative Campaign Development",
@@ -60,7 +60,7 @@ export const serviceCategories: CategoryCardProps[] = [
   },
   {
     category: "MARKETING SERVICES",
-    image: "/images/marketResearch.webp",
+    image: "creativeEdge/images/marketResearch.webp",
     services: [
       {
         title: "Market Research",
@@ -86,7 +86,7 @@ export const serviceCategories: CategoryCardProps[] = [
   },
   {
     category: "DIGITAL MARKETING",
-    image: "/images/influenceMarketing.webp",
+    image: "creativeEdge/images/influenceMarketing.webp",
     services: [
       {
         title: "Influencer Marketing",
@@ -107,7 +107,7 @@ export const serviceCategories: CategoryCardProps[] = [
   },
   {
     category: "CREATIVE SERVICES",
-    image: "/images/graphicDesign.webp",
+    image: "creativeEdge/images/graphicDesign.webp",
     services: [
       {
         title: "Graphic Design",
@@ -128,7 +128,7 @@ export const serviceCategories: CategoryCardProps[] = [
   },
   {
     category: "PUBLIC RELATIONS (PR)",
-    image: "/images/mediaRelations.webp",
+    image: "creativeEdge/images/mediaRelations.webp",
     services: [
       {
         title: "Media Relations",
@@ -149,7 +149,7 @@ export const serviceCategories: CategoryCardProps[] = [
   },
   {
     category: "ANALYTICS AND REPORTING",
-    image: "/images/performanceTracking.webp",
+    image: "creativeEdge/images/performanceTracking.webp",
     services: [
       {
         title: "Performance Tracking",
@@ -165,7 +165,7 @@ export const serviceCategories: CategoryCardProps[] = [
   },
   {
     category: "EVENT MARKETING",
-    image: "/images/eventMarketing.webp",
+    image: "creativeEdge/images/eventMarketing.webp",
     services: [
       {
         title: "Event Planning and Management",
@@ -181,7 +181,7 @@ export const serviceCategories: CategoryCardProps[] = [
   },
   {
     category: "SOCIAL MEDIA MANAGEMENT",
-    image: "/images/socialMedia.webp",
+    image: "creativeEdge/images/socialMedia.webp",
     services: [
       {
         description:
@@ -191,7 +191,7 @@ export const serviceCategories: CategoryCardProps[] = [
   },
   {
     category: "SEARCH ENGINE OPTIMIZATION",
-    image: "/images/searchEngine.webp",
+    image: "creativeEdge/images/searchEngine.webp",
     services: [
       {
         description:
@@ -201,7 +201,7 @@ export const serviceCategories: CategoryCardProps[] = [
   },
   {
     category: "PAY-PER-CLICK ADVERTISING",
-    image: "/images/payPerClick.webp",
+    image: "creativeEdge/images/payPerClick.webp",
     services: [
       {
         description:
@@ -211,7 +211,7 @@ export const serviceCategories: CategoryCardProps[] = [
   },
   {
     category: "EMAIL MARKETING",
-    image: "/images/emailMarketing.webp",
+    image: "creativeEdge/images/emailMarketing.webp",
     services: [
       {
         description:
