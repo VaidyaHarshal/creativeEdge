@@ -28,16 +28,6 @@ export default function About() {
           solutions to help you connect with your audience and achieve your
           growth goals.
         </p>
-        {/* <div className="about-stats">
-          <div className="stat-item">
-            <h3>10+</h3>
-            <p>Years of Experience</p>
-          </div>
-          <div className="stat-item">
-            <h3>200+</h3>
-            <p>Happy Clients</p>
-          </div>
-        </div> */}
       </motion.div>
     </section>
   );

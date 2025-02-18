@@ -31,7 +31,7 @@
 }
 
 .nav-logo {
-  height: 7rem;
+  height: 6rem;
   cursor: pointer;
   transition: all 0.3s ease;
 }
@@ -55,8 +55,8 @@
   padding: 0.5rem 1rem;
 }
 
-.nav-link.scrolled {
-  font-size: 1rem;
+.nav-link:hover {
+  color: #a0ff33;
 }
 
 /* Hover Animation 1 - Underline */
@@ -74,12 +74,6 @@
 .nav-link:hover::after {
   width: 100%;
 }
-
-/* Hover Animation 2 - Background Highlight */
-/* .nav-link:hover {
-  background: rgba(160, 255, 51, 0.1);
-  border-radius: 4px;
-} */
 
 /* Mobile Menu */
 .menu-toggle {
